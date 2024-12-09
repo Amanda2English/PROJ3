@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PROJ3</string>
+    <string name="naruto_button">Naruto Button</string>
+    <string name="bleach_button">Bleach Button</string>
+    <string name="fairy_tail_button">Fairy Tail Button</string>
+    <string name="image_content_description">Displayed Image</string>
+</resources>
